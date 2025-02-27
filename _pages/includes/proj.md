@@ -1,6 +1,6 @@
 # 🛠️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISQE 2024</div><img src='images/HLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISQE 2024</div><img src='images/ISQE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Financial forecast acceleration algorithm development (Based on FPGA chip)**
