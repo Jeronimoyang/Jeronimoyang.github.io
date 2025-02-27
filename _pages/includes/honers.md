@@ -1,3 +1,5 @@
 # 🎖 Honors and Awards
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024* Outstanding participant in InternLM Big Model Hands-on Camp at Shanghai Artificial Intelligence Laboratory(1%)
+- *2023* Harbin Institute of Technology Remin Scholarship
+- *2023* Wentian Scholarship
