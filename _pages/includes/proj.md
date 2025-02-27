@@ -8,6 +8,7 @@
 **Mingda Yang**, Mingyuan Yang, Xuejing Ding, Yixin Han, Jinyun Fan, Jiaqi Li, Yang Liu
 
 [**Code(Only part of it is made public)**](https://github.com/PeterJeremiah/Accelerate-prediction-algorithms)
+
 Bayesian algorithms and finite scoring algorithms that accelerate financial market forecasting.
 
 <!--
