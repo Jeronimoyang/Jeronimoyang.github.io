@@ -22,7 +22,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: "Mingda Yang（杨明达）"
-  avatar: "images/pic.jpg"
+  avatar: "images/avatar.jpg"
   bio: "HIT"
   location: "Harbin, China"
   employer:
