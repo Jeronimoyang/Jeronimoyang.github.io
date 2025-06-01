@@ -3,9 +3,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**xxxxxxxxxxxxxxx**
+**Self-Critique Guided Iterative Reasoning for Multi-hop Question Answering**
 
-Anonymous ACL submission
+Zheng Chu, huiming fan, Jingchang Chen, Qianyu Wang, **Mingda Yang**, Jiafeng Liang, Zhongjie Wang, Hao Li, Guo Tang, Ming Liu, Bing Qin
 
 [**Paper**](https://scholar.google.com.hk/citations?user=cRLTfEgAAAAJ&hl=zh-CN), [**Code**](https://scholar.google.com.hk/citations?user=cRLTfEgAAAAJ&hl=zh-CN)
 
