@@ -1,6 +1,6 @@
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 Findings</div><img src='images/SiGIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 Findings</div><img src='images/AutoPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AutoPR: Let's Automate Your Academic Promotion!**
@@ -12,7 +12,7 @@ Qiguang Chen*, Zheng Yan*, **Mingda Yang\***, Libo Qin, Yixin Yuan, Hanjing Li, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/SiGIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/AI4Research.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI4Research: A Survey of Artificial Intelligence for Scientific Research**
