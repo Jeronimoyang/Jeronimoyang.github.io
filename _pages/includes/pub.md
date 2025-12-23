@@ -35,3 +35,5 @@ Zheng Chu, huiming fan, Jingchang Chen, Qianyu Wang, **Mingda Yang**, Jiafeng Li
 
 </div>
 </div>
+
+<div style="clear: both;"></div>

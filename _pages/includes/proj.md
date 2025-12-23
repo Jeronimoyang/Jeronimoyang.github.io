@@ -11,8 +11,6 @@
 
 Bayesian algorithms and finite scoring algorithms that accelerate financial market forecasting.
 
-<!--
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+
 </div>
 </div>
