@@ -1,6 +1,6 @@
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 Findings</div><img src='images/AutoPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/AutoPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AutoPR: Let's Automate Your Academic Promotion!**
